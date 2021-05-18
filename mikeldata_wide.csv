@@ -1,0 +1,24 @@
+﻿ID,Lub_FID,Lub_min,Lub_max,Sal_FID,Sal_min,Sal_max,tamano,razon
+1,1,1,3,1,0,4,Grandes,La motivación de una presa grande es mayor y por otra parte en cuanto la tienes ya puedes irte de vuelta a casa
+2,3,1,5,2,1,3,Grandes,"Cuanto mayor es la pieza, mayor es el combate"
+3,2,1,4,1,1,4,Pequeños,"Peces que no sobrepasen los 3 kg, ya que la mayoría de las veces, no llegan a ser reproductores"
+4,3,2,4,2,1,2,Grandes,"No hay mucho que razonar,.la pescasub es una actividad selectiva y se pesca las piezas más grandes dentro de los bancos de peces."
+5,2,1,5,2,1,5,Grandes,Es una captura más inusual y memorable.
+6,3,1,5,5,1.5,5,Grandes,Hay que cuidar las tallas y dejar crecer a los pequeños
+7,3,1,5,2,1,3,Grandes,"Cuanto mayor es la pieza, mayor es el combate"
+8,2.5,1,5,3.5,1.5,7,Grandes,En mi opinión la pesca consiste en ser selectivo y no conformista. 
+9,1,1,5,5,1,5,Grandes,"Mayor ejemplar, mayor es el trofeo"
+10,3,2,4,3,1,5,Grandes,
+11,1,1,2,3,3,8,Grandes,Los peces más grandes representan capturas más gratificantes y más difíciles.
+12,2,1,4,4,1,4,Grandes,
+13,5,3,6,6,4.5,8,Grandes,La adrenalina es mayor cuando la captura es mayor
+14,1.5,1,2,4,1,5,Grandes,Cuanto más grande más selectivo es y se conserva mejor la especie
+15,1.5,1,4,2.5,1,10,Grandes,"Al ser más grandes son más inteligentes, cuesta más capturarlos, además los grandes suelen ser especies buenas gastronómicamente "
+16,10,5,15,10,,,Grandes,
+17,5,1,10,10,1,10,Grandes,Más carne menos espinas
+18,2,1,3,4,1,5,,No pesco
+19,2.5,2,3,7,2,7,Grandes,
+20,5,10,15,5,8,10,Grandes,
+21,3,0.5,10,4,1,10,Grandes,Hay que respetar las tallas mínimas.
+22,3,0.5,10,4,1,10,Grandes,Hay que respetar las tallas mínimas.
+23,2,,,2,,,Grandes,Cuidando siempre las especies 
