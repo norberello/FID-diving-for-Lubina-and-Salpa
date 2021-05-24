@@ -1,6 +1,6 @@
 # FID-diving-for-Lubina-and-Salpa
 
-<a href="https://github.com/norberello/FID-diving-for-Lubina-and-Salpa/blob/main/FID%20peces-paired%20data%20test.ipynb">Código </a> y <a href="https://github.com/norberello/FID-diving-for-Lubina-and-Salpa/blob/main/mikeldata_wide.csv" base de datos </a> para comparar FID entre dos especies de peces.
+<a href="https://github.com/norberello/FID-diving-for-Lubina-and-Salpa/blob/main/FID%20peces-paired%20data%20test.ipynb">Código </a> y <a href="https://github.com/norberello/FID-diving-for-Lubina-and-Salpa/blob/main/mikeldata_wide.csv"> base de datos </a> para comparar FID entre dos especies de peces.
 
 <p class="aligncenter">
     <img src="https://pescasubmarinayapnea.com/wp-content/uploads/2021/01/Imagen1-696x341.jpg"/>
